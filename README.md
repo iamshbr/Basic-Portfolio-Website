@@ -22,7 +22,4 @@ The project contains the following files:
 
 ## Getting Started
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/iamshbr/Basic-Portfolio-Website.git
-   ```
+1. Clone this repository: git clone https://github.com/iamshbr/Basic-Portfolio-Website.git
